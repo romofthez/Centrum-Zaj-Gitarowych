@@ -1,0 +1,40 @@
+﻿@model CentrumZajęćGitarowych.ViewModels.NowyKursViewModel
+
+@{
+    ViewBag.Title = "Nowy";
+}
+
+<h2 style="color: black">@Model.Tytuł</h2>
+
+<hr/>
+
+@using (Html.BeginForm("Stwórz", "Kursy"))
+{
+    <div class="form-group">
+        @Html.LabelFor(k => k.Kurs.Nazwa)
+        @Html.TextBoxFor(k => k.Kurs.Nazwa, new { @class = "form-control" })
+        @Html.ValidationMessageFor(k => k.Kurs.Nazwa)
+    </div>
+    
+    <div class="form-group">
+        @Html.LabelFor(k => k.Kurs.StopieńZaawansowaniaId)
+
+        @Html.DropDownListFor(
+            k => k.Kurs.StopieńZaawansowaniaId,
+            new SelectList(Model.StopnieZaawansowania, "Id", "Nazwa"),
+            "Wybierz Stopień Zaawansowania",
+            new { @class = "form-control" }
+            )
+
+        @Html.ValidationMessageFor(k => k.Kurs.StopieńZaawansowaniaId)
+    </div>
+
+    @Html.HiddenFor(k => k.Kurs.Id)
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-primary">Zapisz</button>
+}
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}

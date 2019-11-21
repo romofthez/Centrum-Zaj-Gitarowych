@@ -1,0 +1,69 @@
+﻿@model IEnumerable<CentrumZajęćGitarowych.Models.Kurs>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="jumbotron">
+    <h1 style="color: black">Wszystkie kursy</h1>
+
+    <hr />
+</div>
+
+<p>
+    @Html.ActionLink("Nowy Kurs", "Nowy", "Kursy", null, new { @class = "btn btn-primary btn-lg" })
+</p>
+
+<table id="kursy" class="table table-bordered table-hover">
+    <thead>
+    <tr>
+        <th>Nazwa kursu</th>
+        <th>Poziom zaawansowania</th>
+        <th>Usuń</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var kurs in Model)
+    {
+        <tr>
+            <td>@Html.ActionLink(kurs.Nazwa, "Edytuj", "Kursy", new { id = kurs.Id }, null)</td>
+            <td>@kurs.StopieńZaawansowania.Nazwa</td>
+            <td>
+                <button data-kurs-id="@kurs.Id" class="btn-link js-delete">Usuń</button>
+            </td>
+        
+        </tr>
+    }
+    </tbody>
+</table>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+
+            var tabela = $("#kursy").DataTable( {
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Polish.json"
+                }
+            });
+
+            $("#kursy").on("click", ".js-delete",
+                function () {
+                    var przycisk = $(this);
+
+                    bootbox.confirm("Czy jesteś pewien, że chcesz usunąć ten kurs?",
+                        function(rezultat) {
+                            if (rezultat) {
+                                $.ajax({
+                                    url: "/api/kursy/" + przycisk.attr("data-kurs-id"),
+                                    method: "DELETE",
+                                    success: function () {
+                                        tabela.row(przycisk.parents("tr")).remove().draw();
+                                    }
+                                });
+                            }
+                        });
+                })
+        });
+    </script>
+}

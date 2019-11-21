@@ -1,0 +1,248 @@
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\CentrumZajęćGitarowych.dll.config
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\CentrumZajęćGitarowych.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\CentrumZajęćGitarowych.pdb
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\csc.exe
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\csc.exe.config
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\csc.rsp
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\csi.exe
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\csi.exe.config
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\csi.rsp
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\Microsoft.Managed.Core.targets
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.AppContext.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Collections.Immutable.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Console.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.IO.Compression.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.IO.FileSystem.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.IO.Pipes.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Reflection.Metadata.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Security.AccessControl.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Security.Claims.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Security.Principal.Windows.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.ValueTuple.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Xml.XmlDocument.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Xml.XPath.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\vbc.exe
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\vbc.exe.config
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\vbc.rsp
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\VBCSCompiler.exe
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\roslyn\VBCSCompiler.exe.config
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Antlr3.Runtime.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\EntityFramework.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\EntityFramework.SqlServer.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.AspNet.Identity.Core.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Cookies.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Facebook.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Google.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.OAuth.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Twitter.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Web.Infrastructure.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Newtonsoft.Json.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Owin.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Diagnostics.DiagnosticSource.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.Helpers.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.Mvc.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.Optimization.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.Razor.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.WebPages.Deployment.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.WebPages.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.WebPages.Razor.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\WebGrease.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.Helpers.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.Mvc.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.Optimization.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.Razor.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.WebPages.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.WebPages.Deployment.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.WebPages.Razor.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Newtonsoft.Json.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Antlr3.Runtime.pdb
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\EntityFramework.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\EntityFramework.SqlServer.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.AspNet.Identity.Core.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Facebook.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Cookies.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Google.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Twitter.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.OAuth.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Diagnostics.DiagnosticSource.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.csprojAssemblyReference.cache
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.csproj.CoreCompileInputs.cache
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.csproj.CopyComplete
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.pdb
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.Migrations.ModelWstępny.resources
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.csproj.GenerateResource.cache
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.Migrations.DodajStopieńZaawansowania.resources
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.Migrations.DodajWpisyDoStopniZaawansowania.resources
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.Migrations.DodajAnotacjeDoNazwyKursu.resources
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\AutoMapper.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Net.Http.Formatting.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.Http.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.Http.WebHost.dll
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\AutoMapper.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Net.Http.Formatting.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.Http.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\bin\System.Web.Http.WebHost.xml
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.Migrations.DodajUżytkowników.resources
+D:\czg\CentrumZajęćGitarowych\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.Migrations.DodajWłaściwościDoKlasyUżytkownika.resources
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\CentrumZajęćGitarowych.dll.config
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\CentrumZajęćGitarowych.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\CentrumZajęćGitarowych.pdb
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\csc.exe
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\csc.exe.config
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\csc.rsp
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\csi.exe
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\csi.exe.config
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\csi.rsp
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.AppContext.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Console.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.IO.Compression.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Security.Claims.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.ValueTuple.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\vbc.exe
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\vbc.exe.config
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\vbc.rsp
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\VBCSCompiler.exe
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Antlr3.Runtime.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\AutoMapper.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\EntityFramework.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\EntityFramework.SqlServer.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Newtonsoft.Json.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Owin.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Net.Http.Formatting.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.Helpers.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.Http.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.Http.WebHost.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.Mvc.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.Optimization.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.Razor.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.WebPages.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.WebPages.Razor.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\WebGrease.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\AutoMapper.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Net.Http.Formatting.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.Http.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.Http.WebHost.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.Helpers.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.Mvc.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.Optimization.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.Razor.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.WebPages.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Web.WebPages.Razor.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Newtonsoft.Json.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Antlr3.Runtime.pdb
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\EntityFramework.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\EntityFramework.SqlServer.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.csprojAssemblyReference.cache
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.Migrations.ModelWstępny.resources
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.Migrations.DodajStopieńZaawansowania.resources
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.Migrations.DodajWpisyDoStopniZaawansowania.resources
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.Migrations.DodajAnotacjeDoNazwyKursu.resources
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.Migrations.DodajUżytkowników.resources
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.Migrations.DodajWłaściwościDoKlasyUżytkownika.resources
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.csproj.GenerateResource.cache
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.csproj.CopyComplete
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.dll
+C:\Users\Karol\Desktop\inz wazne\gotowe\na plyte\Aplikacja_Centrum_Zajęć_Gitarowych\Projekt\CentrumZajęćGitarowych\obj\Debug\CentrumZajęćGitarowych.pdb

@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Uczeń czy nauczyciel?";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<h4>Jaki rodzaj konta chcesz założyć?</h4>
+<hr />
+
+<p align="center">
+    @Html.ActionLink("Konto Uczniowskie", "Register", "Account", null, new { @class = "btn btn-success btn-lg" })
+    @Html.ActionLink("Konto Nauczyciela", "RegisterNauczyciel", "Account", null, new { @class = "btn btn-danger btn-lg" })
+</p>
+
+   
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

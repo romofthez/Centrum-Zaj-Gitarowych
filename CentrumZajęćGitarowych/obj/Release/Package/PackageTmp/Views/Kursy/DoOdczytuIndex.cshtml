@@ -1,0 +1,42 @@
+﻿@model IEnumerable<CentrumZajęćGitarowych.Models.Kurs>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div style="background: radial-gradient(aliceblue,#dad8f3,#b0add1,#9290b2,#3f3c5d)" class="jumbotron">
+    <h1 style="color: black">Wszystkie kursy</h1>
+
+    <hr />
+</div>
+<table id="kursy" class="table table-bordered table-hover">
+    <thead>
+    <tr>
+        <th>Nazwa kursu</th>
+        <th>Poziom zaawansowania</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var kurs in Model)
+    {
+        <tr>
+            <td>@Html.ActionLink(kurs.Nazwa, "Szczegóły", "Kursy", new { id = kurs.Id }, null)</td>
+            <td>@kurs.StopieńZaawansowania.Nazwa</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+
+            var tabela = $("#kursy").DataTable( {
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Polish.json"
+                }
+            });
+        });
+    </script>
+}
